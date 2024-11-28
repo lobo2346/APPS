@@ -1,0 +1,27 @@
+.line{
+    height: 10px;
+    width: 200px;
+    background-color: rgb(14, 21, 228);
+    margin: 20px;
+}
+#aplicaciones2{
+    background-color: rgb(206, 13, 13);
+}
+#img{
+    height: 500px;
+}
+#juegos{
+    background-color: blueviolet;
+}
+#ARTISTAS{
+    background-color: rgb(8, 237, 107);
+    padding: 40px;
+}
+#chatbot{
+    background-color: aqua;
+    padding: 40px;
+}
+#footer{
+    background-color: rgb(49, 3, 255);
+    color: #00ffff;
+}
